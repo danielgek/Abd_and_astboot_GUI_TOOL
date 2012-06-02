@@ -1,0 +1,88 @@
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+Getting Devices
+lib/adbMac wait-for-device devices
+* daemon not running. starting it now *
+* daemon started successfully *
+List of devices attached 
+HT0BDRX07225	device
+
+[* daemon not running. starting it now *, * daemon started successfully *, List of devices attached , HT0BDRX07225	device, ]
+lib/adbMac install /Users/daniel-c_l/Downloads/Launcher_360_EN_Beta1.3_Update_1.apk
+	pkg: /data/local/tmp/Launcher_360_EN_Beta1.3_Update_1.apk
+Success
+1968 KB/s (3061388 bytes in 1.518s)
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+Getting Devices
+lib/adbMac wait-for-device devices
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+lib/adbMac install /Users/daniel-c_l/Downloads/WiFixManager.apk
+adb server is out of date.  killing...
+cannot bind 'tcp:5037'
+ADB server didn't ACK
+* failed to start daemon *
+error: 
+lib/adbMac install /Users/daniel-c_l/Downloads/WiFixManager.apk
+error: protocol fault (no status)
+lib/adbMac install /Users/daniel-c_l/Downloads/WiFixManager.apk
+adb server is out of date.  killing...
+* daemon started successfully *
+error: device not found
+lib/adbMac install /Users/daniel-c_l/Downloads/WiFixManager.apk
+error: device not found
+lib/adbMac install /Users/daniel-c_l/Downloads/WiFixManager.apk
+error: device not found
+lib/adbMac install /Users/daniel-c_l/Downloads/WiFixManager.apk
+error: device not found
+lib/adbMac -r install /Users/daniel-c_l/Downloads/WiFixManager.apk
+error: device not found
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+#----------------------STRAT----------------------#
+Setting Premissions
+Premissions setted up
+#----------------------STRAT----------------------#
+Setting Premissions
+Your OS is not support!!
+#----------------------STRAT----------------------#
+Setting Premissions
+Your OS is not support!!
